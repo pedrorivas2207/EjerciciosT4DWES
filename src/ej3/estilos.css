@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background: #ddd; padding: 20px; }
+table.tienda { border-collapse: collapse; background: #fff; margin: 0 auto; width: 480px; box-shadow: 2px 2px 6px #888; }
+table.tienda td, table.tienda th { padding: 10px; border-bottom: 1px solid #ccc; text-align: center; }
+tr.cabecera th { background: #6c7a89; color: #fff; }
+tr.titulos th { background: #6c7a89; color: #ffd0d0; font-size: 13px; }
+.cesta-info a { color: #fff; text-decoration: none; background: #c0392b; padding: 4px 8px; display: inline-block; }
+tr.total td { font-weight: bold; }
+button, .boton { padding: 5px 12px; cursor: pointer; text-decoration: none; color: #000; background: #eee; border: 1px solid #888; border-radius: 3px; }
+p { text-align: center; }
+.detalle { background: #fff; width: 460px; margin: 0 auto; padding: 20px; text-align: center; box-shadow: 2px 2px 6px #888; }
